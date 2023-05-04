@@ -6,6 +6,7 @@ This repository contains a project on demand prediction for the auto spare parts
 ## Features
 
 - A non-linear mathematical model that incorporates various factors, including climate, seasonal manufacturing, and expected time to failure (ETTF) of spare parts
+- Various models have been described in report that explain the probabilty failure functions for auto parts.
 - Data visualization tools to help understand the trends in demand and sales
 - An interactive user interface to input parameters and get predictions for production quantity
 
