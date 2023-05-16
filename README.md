@@ -9,6 +9,3 @@ This repository contains a project on demand prediction for the auto spare parts
 - Various models have been described in report that explain the probabilty failure functions for auto parts.
 - Data visualization tools to help understand the trends in demand and sales
 - An interactive user interface to input parameters and get predictions for production quantity
-
-- better handle exceptional cases when parsing ELF files [#1458](https://github.com/mandiant/capa/issues/1458) [@Aayush Goel](https://github.com/aayush-goel-04)
-- Improved testing coverage for Binary Ninja Backend [#1446](https://github.com/mandiant/capa/issues/1446) [@Aayush Goel](https://github.com/aayush-goel-04)
