@@ -1,7 +1,7 @@
 # IEOR Demand Prediction
 
 This repository contains a project on demand prediction for the auto spare parts manufacturing industry. The goal of the project is to develop a mathematical model to determine the optimal production quantity of auto parts to meet the demand of various auto service centers across multiple regions with different climates.
-
+[Aayush Goel](https://github.com/Aayush-Goel-04)
 [Report](https://github.com/Aayush-Goel-04/IEOR_Demand_Prediction/blob/main/ME308_Team54_Demand_Prediction.pdf) contains a detailed report of this project.
 ## Features
 
